@@ -6,6 +6,7 @@ function initMap() {
     zoom: 10,
   };
 
+  //
   //New Map
   map = new google.maps.Map(document.getElementById("map"), options);
 
